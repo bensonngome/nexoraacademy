@@ -1,0 +1,6 @@
+{
+  "name": "NeXORA AI Training Academy",
+  "description": "Online AI training academy offering practical courses with live and recorded sessions, downloadable notes, assignments, trainer marking, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
